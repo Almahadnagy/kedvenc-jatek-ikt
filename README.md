@@ -1,0 +1,1 @@
+2025/10/24/ 14:38 - Turns out, the problem (The image elozetes-nezt-meg didn't want to work with the CSS) wasn't even an issue! I just had to wait a few minutes. I should have waited for the deployment to finish! 
